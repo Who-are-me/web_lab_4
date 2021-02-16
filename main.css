@@ -1,0 +1,31 @@
+.header1 {
+	text-align: center;
+	color: blue;
+}
+
+.header2 {
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+}
+
+.conteiner {
+	background-color: #f7efef;
+	text-indent: 25px;
+	font-size: 16px;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 400px;
+	text-align: justify;
+}
+
+.redword {
+	color: red;
+	font-weight: bold;
+}
+
+.blueword {
+	color: blue;
+	font-weight: italic;
+}
